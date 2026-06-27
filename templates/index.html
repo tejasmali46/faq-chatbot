@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>FAQ Chatbot</title>
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+<div class="chat-container">
+
+    <!-- Header -->
+
+    <div class="chat-header">
+
+        <div class="bot-avatar">
+            🤖
+        </div>
+
+        <div class="header-text">
+
+            <h2>FAQ Assistant</h2>
+
+            <p>Powered by NLP • TF-IDF • Cosine Similarity</p>
+
+        </div>
+
+    </div>
+
+    <!-- Welcome -->
+
+    <div class="welcome-section">
+
+        <h2>Hello 👋</h2>
+
+        <p>
+            I'm your FAQ Assistant.
+            Ask me anything related to our FAQ database.
+        </p>
+
+        <div class="quick-questions">
+
+            <button onclick="askSuggestion('What is AI?')">
+                AI
+            </button>
+
+            <button onclick="askSuggestion('What is NLP?')">
+                NLP
+            </button>
+
+            <button onclick="askSuggestion('What is Flask?')">
+                Flask
+            </button>
+
+            <button onclick="askSuggestion('What is Python?')">
+                Python
+            </button>
+
+        </div>
+
+    </div>
+
+    <!-- Chat -->
+
+    <div id="chat-box">
+
+        <div class="bot-message">
+
+            <div class="avatar">
+                🤖
+            </div>
+
+            <div class="bubble">
+
+                Welcome!
+
+                <br><br>
+
+                Ask me anything.
+
+                <div class="time" id="welcome-time"></div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <!-- Input -->
+
+    <div class="chat-input">
+
+        <input
+            type="text"
+            id="user-input"
+            placeholder="Ask your question..."
+        >
+
+        <button onclick="sendMessage()">
+
+            <i class="fa-solid fa-paper-plane"></i>
+
+        </button>
+
+    </div>
+
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,423 @@
+[
+    {
+        "question": "What is Artificial Intelligence?",
+        "answer": "Artificial Intelligence is the simulation of human intelligence by machines."
+    },
+    {
+        "question": "What is Machine Learning?",
+        "answer": "Machine Learning is a branch of AI that enables computers to learn from data."
+    },
+    {
+        "question": "What is NLP?",
+        "answer": "Natural Language Processing is a field of AI that helps computers understand human language."
+    },
+    {
+        "question": "What is Python?",
+        "answer": "Python is a high-level programming language used for web development, AI, and data science."
+    },
+    {
+        "question": "What is Flask?",
+        "answer": "Flask is a lightweight Python web framework used to build web applications."
+    }
+    ,
+{
+    "question": "What is Deep Learning?",
+    "answer": "Deep Learning is a subset of Machine Learning that uses neural networks with multiple layers."
+},
+{
+    "question": "What is Data Science?",
+    "answer": "Data Science is the process of extracting useful insights from data using statistics, programming, and machine learning."
+},
+{
+    "question": "What is a Neural Network?",
+    "answer": "A Neural Network is a computational model inspired by the human brain that is used for pattern recognition and prediction."
+},
+{
+    "question": "What is Computer Vision?",
+    "answer": "Computer Vision is a field of AI that enables computers to interpret and understand images and videos."
+},
+{
+    "question": "What is Robotics?",
+    "answer": "Robotics is a branch of technology that deals with designing, building, and operating robots."
+},
+{
+    "question": "What is a Programming Language?",
+    "answer": "A programming language is used to write instructions that a computer can understand and execute."
+},
+{
+    "question": "Why is Python popular?",
+    "answer": "Python is popular because it is simple, readable, versatile, and has a large collection of libraries."
+},
+{
+    "question": "What are Python libraries?",
+    "answer": "Python libraries are collections of pre-written code that help developers perform specific tasks easily."
+},
+{
+    "question": "What is NumPy?",
+    "answer": "NumPy is a Python library used for numerical computations and working with arrays."
+},
+{
+    "question": "What is Pandas?",
+    "answer": "Pandas is a Python library used for data manipulation and data analysis."
+},
+{
+    "question": "What is Matplotlib?",
+    "answer": "Matplotlib is a Python library used for creating graphs and data visualizations."
+},
+{
+    "question": "What is Scikit-learn?",
+    "answer": "Scikit-learn is a Python library used for machine learning algorithms and data analysis."
+},
+{
+    "question": "What is TensorFlow?",
+    "answer": "TensorFlow is an open-source framework developed by Google for machine learning and deep learning."
+},
+{
+    "question": "What is Keras?",
+    "answer": "Keras is a high-level API used to build deep learning models easily."
+},
+{
+    "question": "What is an Algorithm?",
+    "answer": "An algorithm is a step-by-step procedure used to solve a problem."
+},
+{
+    "question": "What is a Dataset?",
+    "answer": "A dataset is a collection of related data used for analysis or training machine learning models."
+},
+{
+    "question": "What is Supervised Learning?",
+    "answer": "Supervised Learning is a machine learning approach where models learn using labeled data."
+},
+{
+    "question": "What is Unsupervised Learning?",
+    "answer": "Unsupervised Learning is a machine learning approach that finds patterns in unlabeled data."
+},
+{
+    "question": "What is Reinforcement Learning?",
+    "answer": "Reinforcement Learning is a machine learning technique where an agent learns through rewards and penalties."
+},
+{
+    "question": "What is Classification?",
+    "answer": "Classification is a machine learning task that predicts categories or labels."
+},
+{
+    "question": "What is Regression?",
+    "answer": "Regression is a machine learning task used to predict continuous numerical values."
+},
+{
+    "question": "What is Overfitting?",
+    "answer": "Overfitting occurs when a machine learning model learns the training data too well and performs poorly on new data."
+},
+{
+    "question": "What is Underfitting?",
+    "answer": "Underfitting occurs when a machine learning model is too simple to learn the data effectively."
+},
+{
+    "question": "What is Feature Engineering?",
+    "answer": "Feature Engineering is the process of selecting and transforming data features to improve model performance."
+},
+{
+    "question": "What is Tokenization?",
+    "answer": "Tokenization is the process of splitting text into smaller units such as words or sentences."
+},
+{
+    "question": "What are Stopwords?",
+    "answer": "Stopwords are common words like 'the', 'is', and 'and' that are often removed during text preprocessing."
+},
+{
+    "question": "What is Stemming?",
+    "answer": "Stemming is the process of reducing words to their root form."
+},
+{
+    "question": "What is Lemmatization?",
+    "answer": "Lemmatization reduces words to their dictionary base form while preserving meaning."
+},
+{
+    "question": "What is TF-IDF?",
+    "answer": "TF-IDF measures the importance of words in a document relative to a collection of documents."
+},
+{
+    "question": "What is Cosine Similarity?",
+    "answer": "Cosine Similarity measures how similar two pieces of text are by comparing their vector representations."
+},
+{
+    "question": "What is JSON?",
+    "answer": "JSON is a lightweight data format used for storing and exchanging structured information."
+},
+{
+    "question": "What is an API?",
+    "answer": "An API allows different software applications to communicate with each other."
+},
+{
+    "question": "What is Flask used for?",
+    "answer": "Flask is used to build web applications and REST APIs using Python."
+},
+{
+    "question": "What is HTML?",
+    "answer": "HTML is the standard markup language used to create web pages."
+},
+{
+    "question": "What is CSS?",
+    "answer": "CSS is used to style and design HTML web pages."
+},
+{
+    "question": "What is JavaScript?",
+    "answer": "JavaScript is a programming language used to make websites interactive."
+},
+{
+    "question": "What is a Database?",
+    "answer": "A database is an organized collection of data that can be stored, retrieved, and managed."
+},
+{
+    "question": "What is SQL?",
+    "answer": "SQL is a language used to manage and query relational databases."
+},
+{
+    "question": "What is Git?",
+    "answer": "Git is a version control system used to track changes in source code."
+},
+{
+    "question": "What is GitHub?",
+    "answer": "GitHub is an online platform used to host and collaborate on Git repositories."
+},
+{
+    "question": "What is Cloud Computing?",
+    "answer": "Cloud Computing provides computing services like storage and servers over the internet."
+},
+{
+    "question": "What is Cybersecurity?",
+    "answer": "Cybersecurity is the practice of protecting computers, networks, and data from cyber threats."
+},
+{
+    "question": "What is Big Data?",
+    "answer": "Big Data refers to extremely large datasets that require advanced tools for processing and analysis."
+},
+{
+    "question": "What is Data Mining?",
+    "answer": "Data Mining is the process of discovering useful patterns and knowledge from large datasets."
+},
+{
+    "question": "What is ChatGPT?",
+    "answer": "ChatGPT is an AI language model developed by OpenAI that generates human-like text responses."
+},
+{
+    "question": "What is Generative AI?",
+    "answer": "Generative AI creates new content such as text, images, code, or audio using machine learning models."
+},
+{
+    "question": "What is Prompt Engineering?",
+    "answer": "Prompt Engineering is the practice of designing effective prompts to get better results from AI models."
+},
+{
+    "question": "What is Automation?",
+    "answer": "Automation is the use of technology to perform tasks with minimal human intervention."
+},
+{
+    "question": "What is Open Source Software?",
+    "answer": "Open Source Software is software whose source code is freely available for anyone to use and modify."
+},
+{
+    "question": "What is Debugging?",
+    "answer": "Debugging is the process of identifying and fixing errors or bugs in a program."
+},
+{
+    "question": "What is Object-Oriented Programming?",
+    "answer": "Object-Oriented Programming is a programming paradigm based on objects, classes, inheritance, and encapsulation."
+},
+    {
+        "question": "Who developed Python?",
+        "answer": "Python was created by Guido van Rossum and first released in 1991."
+    },
+    {
+        "question": "Why is Python popular?",
+        "answer": "Python is popular because of its simple syntax, versatility, and extensive libraries."
+    },
+    {
+        "question": "What is NLTK?",
+        "answer": "NLTK stands for Natural Language Toolkit. It is a Python library used for Natural Language Processing tasks."
+    },
+    {
+        "question": "What is NLP?",
+        "answer": "Natural Language Processing is a branch of Artificial Intelligence that enables computers to understand human language."
+    },
+    {
+        "question": "What is tokenization?",
+        "answer": "Tokenization is the process of splitting text into smaller units called tokens."
+    },
+    {
+        "question": "What are stopwords?",
+        "answer": "Stopwords are commonly used words such as 'the', 'is', and 'and' that are usually removed during text preprocessing."
+    },
+    {
+        "question": "Why do we remove stopwords?",
+        "answer": "Removing stopwords reduces noise and improves text analysis."
+    },
+    {
+        "question": "What is stemming?",
+        "answer": "Stemming reduces words to their root form by removing suffixes."
+    },
+    {
+        "question": "What is lemmatization?",
+        "answer": "Lemmatization converts words into their dictionary base form."
+    },
+    {
+        "question": "What is TF-IDF?",
+        "answer": "TF-IDF stands for Term Frequency-Inverse Document Frequency. It measures the importance of words in a document."
+    },
+    {
+        "question": "Why is TF-IDF used?",
+        "answer": "TF-IDF helps convert text into numerical vectors while reducing the importance of common words."
+    },
+    {
+        "question": "What is cosine similarity?",
+        "answer": "Cosine similarity measures how similar two text vectors are by calculating the cosine of the angle between them."
+    },
+    {
+        "question": "Why is cosine similarity used in chatbots?",
+        "answer": "It helps find the FAQ question that is most similar to the user's query."
+    },
+    {
+        "question": "What is Flask?",
+        "answer": "Flask is a lightweight Python web framework used for building web applications."
+    },
+    {
+        "question": "Why use Flask?",
+        "answer": "Flask is easy to learn, flexible, and suitable for small to medium web applications."
+    },
+    {
+        "question": "What is JSON?",
+        "answer": "JSON is a lightweight data format used for storing and exchanging structured data."
+    },
+    {
+        "question": "Why is JSON used in this chatbot?",
+        "answer": "JSON stores FAQ questions and answers in an organized format."
+    },
+    {
+        "question": "What is preprocessing?",
+        "answer": "Preprocessing is the process of cleaning and preparing text before analysis."
+    },
+    {
+        "question": "What is text cleaning?",
+        "answer": "Text cleaning removes unnecessary symbols, punctuation, and unwanted words from text."
+    },
+    {
+        "question": "What is machine learning?",
+        "answer": "Machine Learning is a branch of AI that enables computers to learn patterns from data."
+    },
+    {
+        "question": "What is supervised learning?",
+        "answer": "Supervised learning uses labeled data to train machine learning models."
+    },
+    {
+        "question": "What is unsupervised learning?",
+        "answer": "Unsupervised learning discovers hidden patterns in unlabeled data."
+    },
+    {
+        "question": "What is Scikit-learn?",
+        "answer": "Scikit-learn is a Python library that provides tools for machine learning."
+    },
+    {
+        "question": "What is a vectorizer?",
+        "answer": "A vectorizer converts text into numerical vectors for machine learning algorithms."
+    },
+    {
+        "question": "What is TfidfVectorizer?",
+        "answer": "TfidfVectorizer converts text into TF-IDF feature vectors."
+    },
+    {
+        "question": "What is word_tokenize?",
+        "answer": "word_tokenize is an NLTK function used to split text into words."
+    },
+    {
+        "question": "What is the stopwords corpus?",
+        "answer": "The stopwords corpus is a predefined list of common words available in NLTK."
+    },
+    {
+        "question": "What is punctuation removal?",
+        "answer": "Punctuation removal eliminates symbols like commas and periods from text."
+    },
+    {
+        "question": "Why convert text to lowercase?",
+        "answer": "Lowercasing ensures consistent text comparison by treating words equally."
+    },
+    {
+        "question": "What is cosine distance?",
+        "answer": "Cosine distance measures the dissimilarity between two vectors."
+    },
+    {
+        "question": "What is a chatbot?",
+        "answer": "A chatbot is a software application that simulates conversations with users."
+    },
+    {
+        "question": "What is an FAQ chatbot?",
+        "answer": "An FAQ chatbot answers user questions by matching them with predefined FAQs."
+    },
+    {
+        "question": "How does this chatbot work?",
+        "answer": "This chatbot preprocesses user input, converts it into TF-IDF vectors, computes cosine similarity, and returns the closest matching answer."
+    },
+    {
+        "question": "What is Flask routing?",
+        "answer": "Routing in Flask maps URLs to Python functions."
+    },
+    {
+        "question": "What is app.py?",
+        "answer": "app.py is the main Flask application file."
+    },
+    {
+        "question": "What is script.js?",
+        "answer": "script.js manages the frontend interaction and communicates with Flask."
+    },
+    {
+        "question": "What is style.css?",
+        "answer": "style.css controls the appearance of the chatbot interface."
+    },
+    {
+        "question": "What is index.html?",
+        "answer": "index.html defines the chatbot's web page structure."
+    },
+    {
+        "question": "What is HTML?",
+        "answer": "HTML is the standard markup language used to create web pages."
+    },
+    {
+        "question": "What is CSS?",
+        "answer": "CSS styles and designs HTML elements."
+    },
+    {
+        "question": "What is JavaScript?",
+        "answer": "JavaScript adds interactivity to web pages."
+    },
+    {
+        "question": "What is a REST API?",
+        "answer": "A REST API allows communication between the frontend and backend using HTTP requests."
+    },
+    {
+        "question": "What is POST request?",
+        "answer": "A POST request sends data from the client to the server."
+    },
+    {
+        "question": "What is GET request?",
+        "answer": "A GET request retrieves data from the server."
+    },
+    {
+        "question": "What is debugging?",
+        "answer": "Debugging is the process of finding and fixing errors in software."
+    },
+    {
+        "question": "What is virtual environment?",
+        "answer": "A virtual environment isolates Python packages for a specific project."
+    },
+    {
+        "question": "What is pip?",
+        "answer": "pip is Python's package manager used to install libraries."
+    },
+    {
+        "question": "What is requirements.txt?",
+        "answer": "requirements.txt stores the list of Python packages required for a project."
+    },
+    {
+        "question": "What is cosine similarity score?",
+        "answer": "The cosine similarity score ranges from 0 to 1 and indicates how similar two pieces of text are."
+    }
+]
