@@ -9,17 +9,20 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Download required NLTK data
-import nltk
+# Download required NLTK data
+# import nltk
 
-try:
-    nltk.data.find("tokenizers/punkt")
-except LookupError:
-    nltk.download("punkt")
+resources = {
+    "tokenizers/punkt": "punkt",
+    "tokenizers/punkt_tab": "punkt_tab",
+    "corpora/stopwords": "stopwords",
+}
 
-try:
-    nltk.data.find("corpora/stopwords")
-except LookupError:
-    nltk.download("stopwords")
+for path, package in resources.items():
+    try:
+        nltk.data.find(path)
+    except LookupError:
+        nltk.download(package)
 
 # Load FAQ data
 with open("faq.json", "r") as file:
